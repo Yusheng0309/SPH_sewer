@@ -2,9 +2,9 @@ Smoothed Particle Hydyodynamics (SPH) is a kind of numerical simulation method.
 
 It is meshless and uses moving particles as the computationl nodes.
 
-This project is trying to construct a one dimensional sewer model by solving the partial differential equations.
+This project is trying to construct a one dimensional sewer model by solving partial differential equations.
 
-The PDEs  include the continuity equation and shallow water equation. 
+The PDEs include the continuity equation and shallow water equation. 
 
 This project can simulate the fluid flowing in the sewer and obtatins the velocites and pressures accurately.
 
