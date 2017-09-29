@@ -6,7 +6,7 @@ This project is trying to construct a one dimensional sewer model by solving par
 
 The PDEs include the continuity equation and shallow water equation. 
 
-This project can simulate the fluid flowing in the sewer and obtatins the velocites and pressures accurately.
+This project can simulate the fluid flowing in the sewer and obtatin the water depths, velocites, and pressures based on real physical mechanism accurately.
 
 The test case is from the paper of V. Casulli and G.S. Stelling (2013) "A semi-implicit numerical model for urban drainage system."
 
