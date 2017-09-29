@@ -1,0 +1,6 @@
+0003, 0004..., are output files recording the particles' positions, velocities, water depths/levels, 
+discharges, cross section areas, Froude numbers, etc. at certain timestep. The output files are created after executing SWSPH.exe.
+
+2.8 sec.avi is the result animation with the physical time 2.8 seconds and is maked by displaying the output files in sequence.
+
+export.tif is the numerical result comparing with the measurement data and the result of Casulli and Stelling(2013).
