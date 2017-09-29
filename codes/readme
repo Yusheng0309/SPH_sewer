@@ -22,10 +22,10 @@ pressure_head.f computes the pressure of full-pipe flow.
 
 rtnewt_d.f/ rtnewt_theta.f compute the shape of pipe cross section area.
 
-time_ingegration.f compute the numerical integration for updating the particle positions and velocities.
+time_ingegration.f computes the numerical integration for updating the particle positions and velocities.
 
 time_step.f determines the new time step.
 
 updating_state.f determines state of the full-pipe flow or free-surface flow.
 
-and updating_ventil.f determines the ventilation state.
+updating_ventil.f determines the ventilation state.
