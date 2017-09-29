@@ -1,0 +1,9 @@
+These files are imported into program when requested by SWSPH.exe.
+
+T3_SWSPH_basic.dat is the setting about numerical parameters like dx, dt, courant number, etc., and the choose of flow regimes 
+of upstream and downstream end (sub:subcritical flow, super:supercritical flow).
+
+T3_SWSPH_set_info.dat is the setting of the parameters of the computational domain and in/outflow boundary conditions 
+(discharge and depth).
+
+zb_ibottom_801.dat is the information of the pipe bottom shape(total 801 nodes).
