@@ -1,0 +1,12 @@
+"dx0"
+0.01
+"tout"
+0.1
+"courant"
+0.25
+"dt_ini"
+0.003
+"slopem (= x/z)"
+1.
+"udcon 1= sub-sub, 2= super-super, 3= super-sub"
+1
