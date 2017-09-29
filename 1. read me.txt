@@ -1,0 +1,16 @@
+Smoothed Particle Hydyodynamics (SPH) is a kind of numerical simulation method.
+
+It is meshless and uses moving particles as the computationl nodes.
+
+This project is trying to construct a one dimensional sewer model by solving the partial differential equations.
+
+The PDEs  include the continuity equation and shallow water equation. 
+
+This project can simulate the fluid flowing in the sewer and obtatins the velocites and pressures accurately.
+
+The test case is from the paper of V. Casulli and G.S. Stelling (2013) "A semi-implicit numerical model for urban drainage system."
+
+This case is a steady pipe flow problem that includes both free surface and pressurized flow with a hydraulic jump. The pipe consists of three 
+parts: a horizontal pipe of length 2 m, a downward inclined pip at an angle -10 degree having length 4 m, and a horizontal pipe of length 2 m.
+The pipes have a circulaar cross section with an inner diameter of 0.22 m.
+
